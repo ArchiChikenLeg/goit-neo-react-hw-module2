@@ -1,3 +1,5 @@
+import clsx from "clsx";
+import css from './Feedback.module.css'
 
 export default function Feedback({ feedback, total, positive }) {
     return <ul>

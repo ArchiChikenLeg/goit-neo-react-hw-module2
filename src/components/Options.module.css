@@ -1,3 +1,19 @@
-.options-btn{
-    background-color: aquamarine;
+.optionsBtn{
+    margin-left: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    background-color: #AEDEFC;
+}
+.good{
+    background-color: #BBCB64;
+}
+
+.neutral{
+    background-color: #FFE52A;
+}
+
+.bad{
+    background-color: #D34E4E;
 }
